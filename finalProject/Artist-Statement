@@ -1,0 +1,31 @@
+Conflux is a puzzle game that is centered on the idea of an arithmetic solving problem without
+any visual of numerical symbols leaving the player to use logical thinking to a puzzle. 
+The objective of the game is very simple: connect the point A node to the point B node with 
+a proper amount of collected energy. The player will be able to move one step around from 
+the starting the position and make way to the goal. It sounds easy; however, the player 
+must be aware of each node's special property that affects the "energy". After completing
+a level, the game will set the next level until the last level; hence, beating the game (Oh really?). 
+
+In addition, the game’s levels can be expanded by using the editor mode. It allows the user 
+(the developer or the player) to creatively design a level and add it to the list of levels.
+The editor is able to generate rows and columns of three to ten and generates a random layout 
+of blueprint map. Once the user found the desired map layout, he will be able to create devious
+pattern routes between the starting and ending nodes in respect of some mechanical constraints. 
+
+I choose to make this game due to the influence of many strategy based games I’ve played on my
+smartphones such as Unblock me, loop and flow, and due to the idea of DLC (downloadable content)
+happening to popular games. These ideas helped me come up with this game. The strategy games pushed 
+me from choosing to develop a puzzle game and the notion of DLC inspired me to created an editor 
+in which I can create a level then add it to my library of levels.
+
+Moreover, I like solving problem, but I also love creating a problem or a scenario. And this game
+became the base result of the creating and solving the problem. I laid out the mechanics to make 
+this idea come true and will continue to work despite the number of levels. The lacking aspects that
+I did not include due to time constraint are the sounds and music, and better visual graphics. 
+Nevertheless, the crux of my ideas and concept are there. 
+
+Conflux, in general, is a casual puzzle game and educative game for all ages. The game has few 
+simple mechanics that anyone should be able to understand in the first try of their gameplay. 
+If not their first try, then it will be sometime later. Lastly, Due to randomly generated map 
+layout, there are sometimes different ways/patterns to complete a level; thus, giving different
+posibility to the player. 
