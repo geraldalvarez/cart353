@@ -362,10 +362,11 @@ class Game {
           gameResult = GameResult.GAMEOVER;
           gameState = GameState.RESULT;
         } else {
-          initializeGame();
-
+        
           //update and save new record
           level.setRecordLevel(curLevel+1, maxLevel);
+          
+           initializeGame();
 
           //change game state and game result
           gameResult = GameResult.CLEARED;
